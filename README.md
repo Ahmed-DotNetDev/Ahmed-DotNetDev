@@ -28,7 +28,7 @@
 
 
 
-<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70" align="center"> Connect with me </h2>
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80" align="center"> Connect with me </h2>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-abdelrahman-3b48a2220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-abdelrahman-3b48a2220/" height="30" width="40" /></a>
 <a href="https://medium.com/@abdelrohman3351635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdelrohman3351635" height="30" width="40" /></a>
