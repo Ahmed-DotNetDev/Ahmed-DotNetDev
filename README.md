@@ -9,7 +9,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmed-dotnetdev&label=Profile%20views&color=39f97c&style=flat" alt="ahmed-dotnetdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-dotnetdev&label=Profile%20views&color=39f97c&style=flat" alt="ahmed-dotnetdev" /> </p>
 
 
 
