@@ -64,6 +64,4 @@
 
 
 
-<h2>Snake eat my repository</h2>
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" align="center" width="1600px">
 
