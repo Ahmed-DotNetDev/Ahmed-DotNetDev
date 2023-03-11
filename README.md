@@ -42,13 +42,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-DotNetDev&theme=dark)
 
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" align="right" width="400px">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" align="right" width="400px" height="600px">
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-DotNetDev&theme=solarized_dark)
 
 
+<!---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-DotNetDev&theme=solarized_dark)
+-->
+
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-DotNetDev&theme=solarized_dark)
