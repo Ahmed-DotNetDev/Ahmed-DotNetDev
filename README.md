@@ -42,10 +42,11 @@
 
 ![](http://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-DotNetDev&theme=dark)
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" align="right" width="400px" height="300px">
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-DotNetDev&theme=solarized_dark)
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" align="right" width="500px" height="300px">
 
 
 <!---
