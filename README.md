@@ -46,7 +46,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-DotNetDev&theme=solarized_dark)
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" align="right" width="500px" height="300px">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" align="right" width="450px" height="300px">
 
 
 <!---
