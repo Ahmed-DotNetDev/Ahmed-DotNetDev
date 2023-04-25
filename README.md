@@ -68,5 +68,13 @@
 
 
 
+<br>
+
+<h1 align="center">Small Steps Everyday Lead To Big Goal 🤸‍♂️💪</h1><br>
+
+<strong><h3 align="center">[1.00]<sup>365</sup>=1.00</h4></strong>
+<strong><h3 align="center">[1.01]<sup>365</sup>=37.7</h4></strong>
+ 
+
 
 
