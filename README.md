@@ -3,6 +3,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-DotNetDev&theme=solarized_dark)
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" align="right" width="390px" height="280px">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=23&duration=4000&pause=10&color=38C2FF&width=435&lines=I'm+.NET+developer;Youtuber;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -10,7 +12,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-dotnetdev&label=Profile%20views&color=39f97c&style=flat" alt="ahmed-dotnetdev" /> </p>
-
 
 
 
@@ -44,7 +45,7 @@
 ![](http://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-DotNetDev&theme=dark)
 
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" align="right" width="390px" height="280px">
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-DotNetDev&theme=solarized_dark)
