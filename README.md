@@ -6,7 +6,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" align="right" width="340px" height="250px">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=23&duration=4000&pause=10&color=38C2FF&width=435&lines=I'm+.NET+developer;Youtuber;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=10&color=38C2FF&width=435&lines=I'm+.NET+Full+Stack+developer;Youtuber;Always+learning+new+things)](https://git.io/typing-svg)
 
 
 
