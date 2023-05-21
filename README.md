@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Ahmed abdelrahman</h1>
+<h1 align="center">Hi there <img src="https://gifdb.com/images/file/waving-hand-emoticon-bye-iv3dmo7t5vdlvr8m.gif" width="35">, I'm Ahmed abdelrahman</h1>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-DotNetDev&theme=solarized_dark)
