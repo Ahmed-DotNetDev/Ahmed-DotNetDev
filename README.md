@@ -47,7 +47,7 @@
 
 [comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-DotNetDev&theme=dark" alt="streak"/> <br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-DotNetDev&theme=react" alt="streak"/> <br>
 	<a href="https://github.com/Ahmed-DotNetDev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-DotNetDev&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmed-DotNetDev&theme=react&layout=compact"/>
