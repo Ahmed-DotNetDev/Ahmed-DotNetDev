@@ -27,7 +27,7 @@
 <hr>
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35" align="center">  Github Profile Trophy 🏆</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed-DotNetDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed-DotNetDev&theme=algolia&row=1&col=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -49,8 +49,8 @@
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-DotNetDev&theme=dark" alt="streak"/> <br>
 	<a href="https://github.com/Ahmed-DotNetDev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-DotNetDev&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmed-DotNetDev&theme=react&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-DotNetDev&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmed-DotNetDev&theme=react&layout=compact"/>
 </a> 
 </p>
 
