@@ -15,14 +15,15 @@
 
 
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Software Engineering** and **Computer Science**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **abdelrohman3351635@gmail.com**
 
-- ⚡ Fun fact **I love coding**
+- ⚡ Fun fact **I love coding** , **Math** 
 
+- 💥 You can visit <a href="https://www.linkedin.com/in/ahmed-abdelrahman-3b48a2220/"><strong>Linkedin</strong></a> 
    
 <hr>
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35" align="center">  Github Profile Trophy 🏆</h2>
