@@ -25,7 +25,7 @@
 
 - 💥 You can visit <a href="https://www.linkedin.com/in/ahmed-abdelrahman-3b48a2220/"><strong>Linkedin</strong></a> 
 
-- 📑 You can download my CV  **[My CV](https://drive.google.com/file/d/1ghutYXoNWPbPN3j3uBSKQ0Wg4m2b8gfd/view?usp=sharing)**
+<!-- - 📑 You can download my CV  **[My CV](https://drive.google.com/file/d/1ghutYXoNWPbPN3j3uBSKQ0Wg4m2b8gfd/view?usp=sharing)** -->
 <hr>
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35" align="center">  Github Profile Trophy 🏆</h2>
 
